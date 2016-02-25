@@ -97,7 +97,7 @@ $ make view-browser-tests
 
 ## Copyright
 
-Copyright &copy; 2016. The [Compute.io][compute-io] Authors..
+Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 
 
 [npm-image]: http://img.shields.io/npm/v/const-max-float64.svg
