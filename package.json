@@ -1,6 +1,6 @@
 {
   "name": "const-max-float64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Maximum double-precision floating-point number.",
   "author": {
     "name": "Athan Reines",
